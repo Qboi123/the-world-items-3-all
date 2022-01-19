@@ -1,0 +1,16 @@
+[
+{
+  "modid": "theworlditems",
+  "name": "The World Items 3",
+  "description": "...",
+  "version": "3.0.0",
+  "mcversion": "[1.12.2]",
+  "url": "https://github.com/Qboi123",
+  "updateUrl": "",
+  "authorList": ["Xineon"],
+  "credits": "Xineon: Programming",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
